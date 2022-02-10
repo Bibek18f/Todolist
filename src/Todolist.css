@@ -1,0 +1,15 @@
+.sss{
+    display: flex;
+    justify-content: center;
+}
+
+.sss i{
+   transform: translateY(5px);
+   margin-right: 5px;
+}
+
+.sss i:hover{
+    background-color: white;
+    color: red;
+    height: 13px;
+}
